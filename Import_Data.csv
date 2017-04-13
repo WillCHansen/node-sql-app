@@ -1,0 +1,11 @@
+item id,product name,deparment name,price,stock quantity
+1,toothpaste,Hygiene,1.5,1
+2,computer,Electronics,200,4
+3,keyboard,Electronics,100,14
+4,mouse,Electronics,50,6
+5,phone,Electronics,750,20
+6,legos,Toys,20,23
+7,sandwich,Food,10,4
+8,chicken,Food,12,5
+9,eggs,Food,5,6
+10,pancakes,Food,1000,1000
